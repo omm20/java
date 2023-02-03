@@ -1,0 +1,10 @@
+public class LongestSubSequence{
+    public int[] answerQueries(int[] nums, int[] queries) {
+        Arrays.sort(nums);
+        int [] ans=new int[queries.length];
+
+    }
+    public static void main(String args[]){
+        System.out.println("hello");
+    }
+}
